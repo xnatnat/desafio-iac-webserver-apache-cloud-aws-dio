@@ -15,4 +15,4 @@ wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.z
 cd linux-site-dio-main
 cp-R * /var/www/html/
 
-echo "<>--- Finalizado ---<>"
+echo "<>---- Finalizado ----<>"
